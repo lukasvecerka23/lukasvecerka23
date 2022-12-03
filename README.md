@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukasvecerka23
 - 👀 I’m interested in Backend Development, Creating server-side microservices and DevOps.
-- 🌱 I’m currently learning Python, C/C++ and Docker.
-- 📖 In future I want to learn GoLang, C#, Kubernetes, AI with Python, Cloud, React and Node.js.
+- 🌱 I’m currently learning Python, C/C++, GoLang and Docker.
+- 📖 In future I want to learn C#(.NET), Kubernetes, AI, Cloud and React.
 - 📫 You can reach me via email vecerkalukas18@gmail.com
 
 <!---
