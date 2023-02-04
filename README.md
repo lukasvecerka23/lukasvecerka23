@@ -3,7 +3,7 @@
 - 🌱 My knowledeges - Python, C/C++, Docker, NoSQL DBs(Elasticsearch, Kafka), SQL, Git.
 - 📖 In future I would like to extend my knowledges with C#(.NET), Kubernetes, AI/ML, Cloud computing and Mobile development(Swift).
 - 🏂 When I am not coding, I usually read book, study new things and do sports.
-- 📈 My goal is to bring efficiency and change the world to the better with my work.
+- 📈 My goal is to bring efficiency and change the world to the better through my work.
 - 📫 You can reach me via email vecerkalukas18@gmail.com
 
 <!---
