@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lukasvecerka23, freelance software developer and computer science student @ Brno University of Technology.
+- 👋 Hi, I’m @lukasvecerka23, freelance software engineer and computer science student @ Brno University of Technology.
 - 👀 I’m interested in Software development and AI/ML.
 - 🔧 My goal is to leverage my expertise to deliver tailored solutions that meet unique needs
 - 📖 Technologies - Python, C# (ASP.NET Core, .NET Core), GoLang, JS/TS (Svelte), Tailwind CSS, Swift, SQL-like DBs, MongoDB, Elasticsearch, Apache Kafka, MQTT, Docker, docker-compose, Git, CI/CD, Linux 
