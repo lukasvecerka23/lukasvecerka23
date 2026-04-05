@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lukasvecerka23, freelance software engineer and software engineering student @ Masaryk University.
+- 👋 Hi, I’m @lukasvecerka23, lead software & ai engineer and software engineering student @ Masaryk University.
 - 👀 I’m interested in Software development and AI/ML.
 - 🔧 My goal is to leverage my expertise to deliver tailored solutions that meet unique needs
 - 💻 Skills and services
