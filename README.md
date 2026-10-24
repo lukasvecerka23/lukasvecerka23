@@ -1,17 +1,30 @@
-- 👋 Hi, I’m @lukasvecerka23, lead software & ai engineer and software engineering student @ Masaryk University.
-- 👀 I’m interested in Software development and AI/ML.
-- 🔧 My goal is to leverage my expertise to deliver tailored solutions that meet unique needs
-- 💻 Skills and services
-  - **Technologies** - Python, C#, JS/TS, GoLang
-  - **Web applications development** - React, Vue, Next, Nuxt, Tailwind CSS
-  - **API development** - Fast API, ASP.NET Core
-  - **Event driven** - Apache Kafka, MQTT
-  - **Deployment and infrastructure** - Docker, Docker compose, CI/CD, Linux, AWS, Azure
-  - **Databases** - PostgreSQL, MongoDB, Elasticsearch, Firebase
-  - **Mobile apps development** - Flutter, Swift
-  - **Software architecture design**
-- 🏂 When I am not coding, I usually read book, study new things and do sports.
-- 📫 You can reach me via email vecerkalukas18@gmail.com
+# Hey, I'm Lukas 👋
+
+**Lead Software & AI Engineer** @ [Harmonum](https://www.harmonum.ai/) & [BitSwan](https://www.bitswan.ai/) · **Building my own products & software for clients** · **Software Engineering student** @ [Masaryk University](https://www.fi.muni.cz/)  
+Based in Brno 🇨🇿
+
+I like solving problems and building things end-to-end — from a rough idea to something running in production. I use AI to move fast on the repetitive work, so my time goes to the parts that actually need thinking. On the side, I build my own products and help clients ship theirs.
+
+**What I help with**
+- **Software, end-to-end** — mostly web applications, but also mobile, desktop and whatever the problem needs
+- **AI engineering** — LLM integrations, agents, self-hosted models
+- **Platform setup & DevOps** — infrastructure, CI/CD, monitoring
+- **Data pipelines & automations**
+
+**Currently working on**
+- [Harmonum](https://www.harmonum.ai/) — enterprise delivery in telco and finance
+- [BitSwan](https://www.bitswan.ai/) — platform for AI agents, automations and internal apps
+- DataLoam *(side project)* — VS Code database client with AI-assisted querying
+
+<details>
+<summary><b>Toolbox</b></summary>
+<br>
+
+TypeScript · Python · Go · C# · React · Next.js · FastAPI · Hono · .NET · PostgreSQL · Kafka · vLLM · MCP · Docker · Kubernetes · Claude Code
+
+</details>
+
+[lukasvecerka.dev](https://lukasvecerka.dev) · [LinkedIn](https://www.linkedin.com/in/lukas-vecerka/) · [X](https://x.com/lukasvecerkadev) · [hello@lukasvecerka.dev](mailto:hello@lukasvecerka.dev)
 
 <!---
 lukasvecerka23/lukasvecerka23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
