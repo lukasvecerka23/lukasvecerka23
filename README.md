@@ -15,6 +15,7 @@ I like solving problems and building things end-to-end — from a rough idea to 
 - [Harmonum](https://www.harmonum.ai/) — enterprise delivery in telco and finance
 - [BitSwan](https://www.bitswan.ai/) — platform for AI agents, automations and internal apps
 - DataLoam *(side project)* — VS Code database client with AI-assisted querying
+- [Blueprint Deck Kit](https://blueprint-deck.lukasvecerka.dev) *(open source)* — agent skill that turns docs or code into an interactive presentation diagram
 
 <details>
 <summary><b>Toolbox</b></summary>
