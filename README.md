@@ -3,11 +3,11 @@
 **Tech lead & builder** · Tech Lead @ [Harmonum](https://www.harmonum.ai/) · Lead Software Engineer @ [BitSwan](https://www.bitswan.ai/) · **Software Engineering student** @ [Masaryk University](https://www.fi.muni.cz/)  
 Based in Brno 🇨🇿
 
-I enjoy solving problems with software and building things end-to-end — from the first idea to running in production, for companies and on my own products. I'm hands-on across the whole stack, and I care about the business side as much as the code: what's actually worth building, and why. I work with AI coding agents every day, so my time goes to the decisions that matter.
+I enjoy solving problems with software and building things end-to-end — from the first idea to running in production, for companies and on my own products. I'm hands-on across the whole stack, and I care just as much about the business side — what's actually worth building, and why. I work with AI coding agents every day, so my time goes to the decisions that matter.
 
 **What I do**
 - **Custom software** — architecture, development, deployment and long-term operations, most recently for enterprise clients in telco and finance
-- **Building products** — from idea to launch: what to build first, the technical choices, shipping and iterating
+- **Building products** — from idea to launch, deciding what to build first, making the technical choices, shipping and iterating
 - **AI engineering** — LLM integrations, agent systems, self-hosted models and LLMOps
 
 **Currently working on**
