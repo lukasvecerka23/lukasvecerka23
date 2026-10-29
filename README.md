@@ -1,27 +1,26 @@
 # Hey, I'm Lukas 👋
 
-**Lead Software & AI Engineer** @ [Harmonum](https://www.harmonum.ai/) & [BitSwan](https://www.bitswan.ai/) · **Building my own products & software for clients** · **Software Engineering student** @ [Masaryk University](https://www.fi.muni.cz/)  
+**Tech lead & builder** · Tech Lead @ [Harmonum](https://www.harmonum.ai/) · Lead Software Engineer @ [BitSwan](https://www.bitswan.ai/) · **Software Engineering student** @ [Masaryk University](https://www.fi.muni.cz/)  
 Based in Brno 🇨🇿
 
-I like solving problems and building things end-to-end — from a rough idea to something running in production. I use AI to move fast on the repetitive work, so my time goes to the parts that actually need thinking. On the side, I build my own products and help clients ship theirs.
+I enjoy solving problems with software and building things end-to-end — from the first idea to running in production, for companies and on my own products. I'm hands-on across the whole stack, and I care about the business side as much as the code: what's actually worth building, and why. I work with AI coding agents every day, so my time goes to the decisions that matter.
 
-**What I help with**
-- **Software, end-to-end** — mostly web applications, but also mobile, desktop and whatever the problem needs
-- **AI engineering** — LLM integrations, agents, self-hosted models
-- **Platform setup & DevOps** — infrastructure, CI/CD, monitoring
-- **Data pipelines & automations**
+**What I do**
+- **Custom software** — architecture, development, deployment and long-term operations, most recently for enterprise clients in telco and finance
+- **Building products** — from idea to launch: what to build first, the technical choices, shipping and iterating
+- **AI engineering** — LLM integrations, agent systems, self-hosted models and LLMOps
 
 **Currently working on**
-- [Harmonum](https://www.harmonum.ai/) — enterprise delivery in telco and finance
+- [Harmonum](https://www.harmonum.ai/) — enterprise software delivery in telco and finance
 - [BitSwan](https://www.bitswan.ai/) — platform for AI agents, automations and internal apps
-- DataLoam *(side project)* — VS Code database client with AI-assisted querying
-- [Blueprint Deck Kit](https://blueprint-deck.lukasvecerka.dev) *(open source)* — agent skill that turns docs or code into an interactive presentation diagram
+- [DataLoam](https://www.dataloam.io/) *(own product)* — VS Code database client with AI-assisted querying
+- [Blueprint Deck Kit](https://blueprintdeck.dev/) *(own product, open source)* — agent skill that turns docs or code into an interactive presentation diagram
 
 <details>
 <summary><b>Toolbox</b></summary>
 <br>
 
-TypeScript · Python · Go · C# · React · Next.js · FastAPI · Hono · .NET · PostgreSQL · Kafka · vLLM · MCP · Docker · Kubernetes · Claude Code
+TypeScript · Python · Go · C# · React · Next.js · FastAPI · Hono · .NET · PostgreSQL · ClickHouse · Kafka · vLLM · MCP · Docker · Kubernetes · Stripe · PostHog · Claude Code
 
 </details>
 
